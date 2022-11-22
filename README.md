@@ -36,6 +36,9 @@ Gripping & drop detection
 Force & position adjustment
 Self-locking
 
+![image](https://user-images.githubusercontent.com/82869119/203333076-d785b26e-2768-40d9-9564-cd9ecfe5e43b.png)
+
+
                   ![ag-95](https://user-images.githubusercontent.com/36288975/201618444-9b5a4749-9663-464d-814b-170217763a76.png)
 ### Figure -01 DH gripper with two finger gripper 
 
@@ -66,6 +69,7 @@ Operating temperature: 5–45 °C.
 Weight: 33 kg.
 Installation position: floor, ceiling, walls.
 
+![image](https://user-images.githubusercontent.com/82869119/203333227-06d787c3-d028-49da-8408-f61ca69d2043.png)
 
 
 ![download](https://user-images.githubusercontent.com/36288975/201624230-89cc83ff-cecd-49ea-84c6-c67066e9d157.jpg)
@@ -76,10 +80,14 @@ Installation position: floor, ceiling, walls.
 
 1. click on dart platfom icon ![image](https://user-images.githubusercontent.com/36288975/201621038-f1248586-5c20-40fd-8a74-68c7d8b44939.png)
 2. click on the internet interface 
-![image](https://user-images.githubusercontent.com/36288975/201621235-3b8b46a9-3c19-4207-9ea2-6a7954eb6135.png)
+![image](https://user-images.githubusercontent.com/82869119/203333386-85474207-5732-4564-8fad-b2478bb42303.png)
+![image](https://user-images.githubusercontent.com/82869119/203333477-fe65d89e-a5d3-4c10-a633-d8e4a23286df.png)
+
 and click on the connect icon 
 
 3. click on the 
+![image](https://user-images.githubusercontent.com/82869119/203333601-317dc099-4a23-43ed-8c36-45aac9c0e0b9.png)
+![Uploading image.png…]()
 
 
 
@@ -107,6 +115,7 @@ and click on the connect icon
 
 
 ### Results: 
+Thus, the experiment to pick and place a regular shape using two finger gripper on theconveyor belt is sucessfully completed
 
 
 
